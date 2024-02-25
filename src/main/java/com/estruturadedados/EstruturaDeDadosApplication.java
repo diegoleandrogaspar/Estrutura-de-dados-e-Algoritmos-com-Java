@@ -1,4 +1,4 @@
-package br.com.Estrutura.de.dados;
+package com.estruturadedados;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

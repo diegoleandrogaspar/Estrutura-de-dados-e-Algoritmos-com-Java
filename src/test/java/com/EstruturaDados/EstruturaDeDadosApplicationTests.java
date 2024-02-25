@@ -1,4 +1,4 @@
-package br.com.Estrutura.de.dados;
+package com.EstruturaDados;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
