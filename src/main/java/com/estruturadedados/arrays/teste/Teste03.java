@@ -2,7 +2,7 @@ package com.estruturadedados.arrays.teste;
 
 import com.estruturadedados.arrays.Vetor;
 
-public class teste03 {
+public class Teste03 {
 
     public static void main(String[] args) {
          /*
